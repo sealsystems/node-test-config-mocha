@@ -1,7 +1,0 @@
-#!/usr/bin/env node
-
-'use strict';
-
-const testFn = require('../lib/test');
-
-testFn();

@@ -18,7 +18,7 @@ $(npm bin)/mocha
 
 The package also provides some CLI executables:
 
-- `test` runs Mocha
+- `test-run` runs Mocha
 
 - `test-coverage` collects coverage data via `nyc` (which is also installed as a dependency)
 
@@ -42,7 +42,7 @@ To use these executables, add some scripts to your `package.json`:
 ```json
 ...
 "scripts": {
-  "test": "test",
+  "test": "test-run",
   "test:coverage": "test-coverage",
   "test:coverage:check": "test-coverage-check",
   "test:report": "test-report"

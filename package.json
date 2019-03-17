@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "bin": {
-    "test": "bin/test",
+    "test-run": "bin/test-run",
     "test-coverage": "bin/test-coverage",
     "test-coverage-check": "bin/test-coverage-check",
     "test-report": "bin/test-report"
@@ -21,7 +21,7 @@
     "lint": "lint",
     "lint:fix": "lint-fix",
     "release": "semantic-release --branch ${CIRCLE_BRANCH}",
-    "test": "node bin/test",
+    "test": "node bin/test-run",
     "test:coverage:check": "node bin/test-coverage-check",
     "test:coverage": "node bin/test-coverage",
     "test:report": "node bin/test-report"
