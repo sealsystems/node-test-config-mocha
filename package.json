@@ -1,7 +1,7 @@
 {
   "name": "@sealsystems/test-config-mocha",
   "version": "0.0.0",
-  "description": "ESLint configuration for projects at SEAL Systems",
+  "description": "est configuration for Mocha at SEAL Systems",
   "author": {
     "name": "SEAL Systems AG",
     "email": "opensource@sealsystems.de",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sealsystems/node-eslint-config-es.git"
+    "url": "https://github.com/sealsystems/node-test-config-mocha.git"
   },
   "dependencies": {
     "assertthat": "2.0.3",
