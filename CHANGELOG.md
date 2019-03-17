@@ -1,3 +1,16 @@
+## 1.0.1 (2019-03-17)
+
+### Bug Fixes
+
+
+#### Fix description ([b278c54](https://github.com/sealsystems/node-test-config-mocha/commit/b278c54))
+
+#### Publish module in public ([c6b4b2f](https://github.com/sealsystems/node-test-config-mocha/commit/c6b4b2f))
+
+
+
+---
+
 ## 1.0.0 (2019-03-17)
 
 ### Bug Fixes
