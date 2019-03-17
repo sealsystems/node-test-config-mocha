@@ -43,5 +43,8 @@
   },
   "release": {
     "extends": "@sealsystems/semantic-release-config/node-module"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
