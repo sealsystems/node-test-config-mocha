@@ -2,6 +2,6 @@
 
 'use strict';
 
-const test = require('../lib/test');
+const testFn = require('../lib/test');
 
-test();
+testFn();
