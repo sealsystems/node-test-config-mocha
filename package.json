@@ -1,0 +1,47 @@
+{
+  "name": "@sealsystems/test-config-mocha",
+  "version": "0.0.0",
+  "description": "ESLint configuration for projects at SEAL Systems",
+  "author": {
+    "name": "SEAL Systems AG",
+    "email": "opensource@sealsystems.de",
+    "url": "https://www.sealsystems.de"
+  },
+  "license": "MIT",
+  "bin": {
+    "test": "bin/test",
+    "test-coverage": "bin/test-coverage",
+    "test-coverage-check": "bin/test-coverage-check",
+    "test-report": "bin/test-report"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "bot": "bot",
+    "licenses": "license-checker --production --csv",
+    "lint": "lint",
+    "lint:fix": "lint-fix",
+    "release": "semantic-release --branch ${CIRCLE_BRANCH}",
+    "test": "node bin/test",
+    "test:coverage:check": "node bin/test-coverage-check",
+    "test:coverage": "node bin/test-coverage",
+    "test:report": "node bin/test-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sealsystems/node-eslint-config-es.git"
+  },
+  "dependencies": {
+    "assertthat": "2.0.3",
+    "mocha": "6.0.2",
+    "nyc": "13.3.0",
+    "shelljs": "0.8.3"
+  },
+  "devDependencies": {
+    "@sealsystems/semantic-release-config": "3.2.0",
+    "@sealsystems/eslint-config-es": "3.2.3",
+    "license-checker": "25.0.1"
+  },
+  "release": {
+    "extends": "@sealsystems/semantic-release-config/node-module"
+  }
+}
