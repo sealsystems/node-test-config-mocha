@@ -28,9 +28,11 @@ The package also provides some CLI executables:
 
 Please note:
 
-- The `test` folder must contain a `mocha.opts` file with at least the following content:
+- Mocha runs with the following settings:
 
   ```
+  --bail
+  --color
   --recursive
   --ui tdd
   ```
