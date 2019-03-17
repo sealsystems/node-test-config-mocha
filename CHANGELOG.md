@@ -1,3 +1,14 @@
+## 1.0.3 (2019-03-17)
+
+### Bug Fixes
+
+
+#### Rename script test to test-run ([b01192d](https://github.com/sealsystems/node-test-config-mocha/commit/b01192d))
+
+
+
+---
+
 ## 1.0.2 (2019-03-17)
 
 ### Bug Fixes
