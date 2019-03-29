@@ -1,3 +1,18 @@
+## 1.0.4 (2019-03-29)
+
+### Bug Fixes
+
+
+#### Add missing options to Mocha ([9db84e1](https://github.com/sealsystems/node-test-config-mocha/commit/9db84e1))
+
+#### Fix mocha options ([df39e54](https://github.com/sealsystems/node-test-config-mocha/commit/df39e54))
+
+#### Run only files in folder 'test' with suffix '*Test.js' ([3f34e1b](https://github.com/sealsystems/node-test-config-mocha/commit/3f34e1b))
+
+
+
+---
+
 ## 1.0.3 (2019-03-17)
 
 ### Bug Fixes
