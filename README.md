@@ -28,11 +28,16 @@ The package also provides some CLI executables:
 
 Please note:
 
+- Our standard assert librady `assertthat` is also a dependency of this package. So you do not need to include it in your project's `package.json`.
+
 - Mocha runs with the following settings:
 
   ```
+  test/**/*Test.js
+  --async-only
   --bail
   --color
+  --exit
   --recursive
   --ui tdd
   ```
