@@ -1,3 +1,14 @@
+## 1.0.5 (2019-03-29)
+
+### Bug Fixes
+
+
+#### Use always the same Mocha options ([7cd0053](https://github.com/sealsystems/node-test-config-mocha/commit/7cd0053))
+
+
+
+---
+
 ## 1.0.4 (2019-03-29)
 
 ### Bug Fixes
