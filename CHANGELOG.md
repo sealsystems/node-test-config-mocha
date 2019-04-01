@@ -9,7 +9,9 @@
 
 ### BREAKING CHANGES
 
-#### You must change the dependency in you package.json from
+#### Configuration changes needed
+
+You must change the dependency in your package.json from
 
 ```
    "@sealsystems/test-config-mocha": "a.b.c"
