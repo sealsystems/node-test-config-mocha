@@ -20,7 +20,7 @@
     "licenses": "license-checker --production --csv",
     "lint": "lint",
     "lint:fix": "lint-fix",
-    "release": "semantic-release --branch ${CIRCLE_BRANCH}",
+    "release": "release",
     "test": "node bin/test-run",
     "test:coverage:check": "node bin/test-coverage-check",
     "test:coverage": "node bin/test-coverage",
@@ -37,12 +37,12 @@
     "shelljs": "0.8.3"
   },
   "devDependencies": {
-    "@sealsystems/semantic-release-config": "3.3.0",
-    "@sealsystems/eslint-config-es": "3.3.0",
+    "@sealsystems/semantic-release": "4.0.0",
+    "@sealsystems/eslint-config-es": "3.3.3",
     "license-checker": "25.0.1"
   },
   "release": {
-    "extends": "@sealsystems/semantic-release-config/node-module"
+    "extends": "@sealsystems/semantic-release/node-module"
   },
   "publishConfig": {
     "access": "public"
