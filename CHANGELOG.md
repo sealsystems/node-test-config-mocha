@@ -1,3 +1,14 @@
+## 2.0.1 (2019-04-01)
+
+### Chores
+
+
+#### Update dependencies ([cc72985](https://github.com/sealsystems/node-mocha/commit/cc72985))
+
+
+
+---
+
 ## 2.0.0 (2019-04-01)
 
 ### Features
