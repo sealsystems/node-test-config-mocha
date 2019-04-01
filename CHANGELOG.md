@@ -1,3 +1,30 @@
+## 2.0.0 (2019-04-01)
+
+### Features
+
+
+#### Rename project ([3b920df](https://github.com/sealsystems/node-mocha/commit/3b920df))
+
+
+
+### BREAKING CHANGES
+
+#### You must change the dependency in you package.json from
+
+```
+   "@sealsystems/test-config-mocha": "a.b.c"
+```
+
+to 
+
+```
+   "@sealsystems/mocha": "x.y.z"
+```
+
+in order to use the new version.
+
+---
+
 ## 1.0.5 (2019-03-29)
 
 ### Bug Fixes
