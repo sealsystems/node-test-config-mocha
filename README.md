@@ -30,7 +30,7 @@ Please note:
 
 - Our standard assert library `assertthat` is also a dependency of this package. So you do not need to include it in your project's `package.json`.
 
-- In order to install all dependencies directly in the project's `node_modules` folder, you may need to delete `packege-lock.json` before adding this package.
+- In order to install all dependencies directly in the project's `node_modules` folder, you may need to delete `package-lock.json` before adding this package.
  
 - Mocha runs with the following settings:
 
