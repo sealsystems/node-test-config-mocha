@@ -3,7 +3,7 @@
 ### Bug Fixes
 
 
-#### Use always the same Mocha options ([7cd0053](https://github.com/sealsystems/node-test-config-mocha/commit/7cd0053))
+#### Use always the same Mocha options ([7cd0053](https://github.com/sealsystems/node-mocha/commit/7cd0053))
 
 
 
@@ -14,11 +14,11 @@
 ### Bug Fixes
 
 
-#### Add missing options to Mocha ([9db84e1](https://github.com/sealsystems/node-test-config-mocha/commit/9db84e1))
+#### Add missing options to Mocha ([9db84e1](https://github.com/sealsystems/node-mocha/commit/9db84e1))
 
-#### Fix mocha options ([df39e54](https://github.com/sealsystems/node-test-config-mocha/commit/df39e54))
+#### Fix mocha options ([df39e54](https://github.com/sealsystems/node-mocha/commit/df39e54))
 
-#### Run only files in folder 'test' with suffix '*Test.js' ([3f34e1b](https://github.com/sealsystems/node-test-config-mocha/commit/3f34e1b))
+#### Run only files in folder 'test' with suffix '*Test.js' ([3f34e1b](https://github.com/sealsystems/node-mocha/commit/3f34e1b))
 
 
 
@@ -29,7 +29,7 @@
 ### Bug Fixes
 
 
-#### Rename script test to test-run ([b01192d](https://github.com/sealsystems/node-test-config-mocha/commit/b01192d))
+#### Rename script test to test-run ([b01192d](https://github.com/sealsystems/node-mocha/commit/b01192d))
 
 
 
@@ -40,7 +40,7 @@
 ### Bug Fixes
 
 
-#### Fix naming error in test script ([51dedfc](https://github.com/sealsystems/node-test-config-mocha/commit/51dedfc))
+#### Fix naming error in test script ([51dedfc](https://github.com/sealsystems/node-mocha/commit/51dedfc))
 
 
 
@@ -51,9 +51,9 @@
 ### Bug Fixes
 
 
-#### Fix description ([b278c54](https://github.com/sealsystems/node-test-config-mocha/commit/b278c54))
+#### Fix description ([b278c54](https://github.com/sealsystems/node-mocha/commit/b278c54))
 
-#### Publish module in public ([c6b4b2f](https://github.com/sealsystems/node-test-config-mocha/commit/c6b4b2f))
+#### Publish module in public ([c6b4b2f](https://github.com/sealsystems/node-mocha/commit/c6b4b2f))
 
 
 
@@ -64,16 +64,16 @@
 ### Bug Fixes
 
 
-#### Fix repository URL ([422c0f0](https://github.com/sealsystems/node-test-config-mocha/commit/422c0f0))
+#### Fix repository URL ([422c0f0](https://github.com/sealsystems/node-mocha/commit/422c0f0))
 
-#### mocha.ops is no longer needed ([0673079](https://github.com/sealsystems/node-test-config-mocha/commit/0673079))
+#### mocha.ops is no longer needed ([0673079](https://github.com/sealsystems/node-mocha/commit/0673079))
 
-#### Update name of coverage script to test:coverage ([79d300e](https://github.com/sealsystems/node-test-config-mocha/commit/79d300e))
+#### Update name of coverage script to test:coverage ([79d300e](https://github.com/sealsystems/node-mocha/commit/79d300e))
 
 ### Features
 
 
-#### Initial commit ([f51ab30](https://github.com/sealsystems/node-test-config-mocha/commit/f51ab30))
+#### Initial commit ([f51ab30](https://github.com/sealsystems/node-mocha/commit/f51ab30))
 
 
 
