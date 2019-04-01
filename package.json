@@ -1,5 +1,5 @@
 {
-  "name": "@sealsystems/test-config-mocha",
+  "name": "@sealsystems/mocha",
   "version": "1.0.5",
   "description": "Test configuration for Mocha at SEAL Systems",
   "author": {
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sealsystems/node-test-config-mocha.git"
+    "url": "https://github.com/sealsystems/node-mocha.git"
   },
   "dependencies": {
     "assertthat": "2.0.3",

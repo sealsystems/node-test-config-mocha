@@ -1,16 +1,16 @@
-# @sealsystems/test-config-mocha
+# @sealsystems/mocha
 
-Test configuration for Mocha at SEAL Systems
+Mocha executable and test configuration for SEAL Systems
 
 ## Installation
 
 ```bash
-npm install --save-dev @sealsystems/test-config-mocha
+npm install --save-dev @sealsystems/mocha
 ```
 
 ## Quick start
 
-Mocha is installed as a dependency of `@sealsystems/test-config-mocha`. So you can call `mocha` from the root directory of your project:
+Mocha is installed as a dependency of `@sealsystems/mocha`. So you can call `mocha` from the root directory of your project:
 
 ```shell
 $(npm bin)/mocha
@@ -28,8 +28,10 @@ The package also provides some CLI executables:
 
 Please note:
 
-- Our standard assert librady `assertthat` is also a dependency of this package. So you do not need to include it in your project's `package.json`.
+- Our standard assert library `assertthat` is also a dependency of this package. So you do not need to include it in your project's `package.json`.
 
+- In order to install all dependencies directly in the project's `node_modules` folder, you may need to delete `packege-lock.json` before adding this package.
+ 
 - Mocha runs with the following settings:
 
   ```
