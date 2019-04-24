@@ -1,3 +1,14 @@
+## 2.0.2 (2019-04-24)
+
+### Bug Fixes
+
+
+#### Correct glob for test files ([35ad210](https://github.com/sealsystems/node-mocha/commit/35ad210))
+
+
+
+---
+
 ## 2.0.1 (2019-04-01)
 
 ### Chores
