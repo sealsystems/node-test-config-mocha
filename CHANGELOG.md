@@ -1,3 +1,14 @@
+## 2.0.3 (2019-04-25)
+
+### Bug Fixes
+
+
+#### Fix quotes for Windows ([9c247db](https://github.com/sealsystems/node-mocha/commit/9c247db))
+
+
+
+---
+
 ## 2.0.2 (2019-04-24)
 
 ### Bug Fixes
