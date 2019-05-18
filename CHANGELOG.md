@@ -1,3 +1,14 @@
+## 2.1.0 (2019-05-18)
+
+### Features
+
+
+#### Check coverage of all files in `lib` or `src` folder ([53e75f1](https://github.com/sealsystems/node-mocha/commit/53e75f1))
+
+
+
+---
+
 ## 2.0.3 (2019-04-25)
 
 ### Bug Fixes
