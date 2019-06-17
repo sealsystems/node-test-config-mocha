@@ -1,3 +1,20 @@
+## 3.0.0 (2019-06-17)
+
+### Features
+
+
+#### Updated dependencies ([b20da55](https://github.com/sealsystems/node-mocha/commit/b20da55))
+
+
+
+### BREAKING CHANGES
+
+#### Updated all dependencies to the newest version.
+
+`assertthat` has been updated to a new major release.
+
+---
+
 ## 2.1.0 (2019-05-18)
 
 ### Features
