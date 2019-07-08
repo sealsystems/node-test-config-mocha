@@ -1,3 +1,14 @@
+## 3.0.1 (2019-07-08)
+
+### Chores
+
+
+#### bump js-yaml from 3.12.0 to 3.13.1 ([2896d9d](https://github.com/sealsystems/node-mocha/commit/2896d9d))
+
+
+
+---
+
 ## 3.0.0 (2019-06-17)
 
 ### Features
