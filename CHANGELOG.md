@@ -1,3 +1,14 @@
+## 3.0.11 (2019-09-07)
+
+### Chores
+
+
+#### Reference other build-related modules by repository name ([66d4129](https://github.com/sealsystems/node-mocha/commit/66d4129))
+
+
+
+---
+
 ## 3.0.10 (2019-09-07)
 
 ### Chores
