@@ -37,8 +37,8 @@
     "shelljs": "0.8.3"
   },
   "devDependencies": {
-    "@sealsystems/semantic-release": "4.0.10",
-    "@sealsystems/eslint-config-es": "3.3.13",
+    "@sealsystems/semantic-release": "4.0.11",
+    "@sealsystems/eslint-config-es": "3.3.15",
     "license-checker": "25.0.1"
   },
   "release": {
