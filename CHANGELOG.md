@@ -1,3 +1,75 @@
+## 3.0.1 (2019-07-08)
+
+### Chores
+
+
+#### bump js-yaml from 3.12.0 to 3.13.1 ([2896d9d](https://github.com/sealsystems/node-mocha/commit/2896d9d))
+
+
+
+---
+
+## 3.0.0 (2019-06-17)
+
+### Features
+
+
+#### Updated dependencies ([b20da55](https://github.com/sealsystems/node-mocha/commit/b20da55))
+
+
+
+### BREAKING CHANGES
+
+#### Updated all dependencies to the newest version.
+
+`assertthat` has been updated to a new major release.
+
+---
+
+## 2.1.0 (2019-05-18)
+
+### Features
+
+
+#### Check coverage of all files in `lib` or `src` folder ([53e75f1](https://github.com/sealsystems/node-mocha/commit/53e75f1))
+
+
+
+---
+
+## 2.0.3 (2019-04-25)
+
+### Bug Fixes
+
+
+#### Fix quotes for Windows ([9c247db](https://github.com/sealsystems/node-mocha/commit/9c247db))
+
+
+
+---
+
+## 2.0.2 (2019-04-24)
+
+### Bug Fixes
+
+
+#### Correct glob for test files ([35ad210](https://github.com/sealsystems/node-mocha/commit/35ad210))
+
+
+
+---
+
+## 2.0.1 (2019-04-01)
+
+### Chores
+
+
+#### Update dependencies ([cc72985](https://github.com/sealsystems/node-mocha/commit/cc72985))
+
+
+
+---
+
 ## 2.0.0 (2019-04-01)
 
 ### Features
