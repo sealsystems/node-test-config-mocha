@@ -1,3 +1,30 @@
+## 3.0.4 (2019-09-07)
+
+### Chores
+
+
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release from 4.0.1 to 4.0.3 ([c69878a](https://github.com/sealsystems/node-mocha/commit/c69878a))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from 4.0.1 to 4.0.3.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Changelog](https://github.com/sealsystems/node-semantic-release/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/4.0.1...4.0.3)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+#### Fix .npmignore ([883b545](https://github.com/sealsystems/node-mocha/commit/883b545))
+
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release from 4.0.3 to 4.0.4 ([97c5868](https://github.com/sealsystems/node-mocha/commit/97c5868))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from 4.0.3 to 4.0.4.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Changelog](https://github.com/sealsystems/node-semantic-release/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/4.0.3...4.0.4)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 3.0.3 (2019-09-07)
 
 ### Chores
