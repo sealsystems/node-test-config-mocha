@@ -1,3 +1,21 @@
+## 3.0.13 (2019-09-07)
+
+### Chores
+
+
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release ([7659755](https://github.com/sealsystems/node-mocha/commit/7659755))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from `51dc5c8` to `ababe77`.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/51dc5c819b9747e6aee5c48f180911b812bef71f...ababe77af38e2eab02a7780325018ec0b9f2b6a4)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+#### Remove devDependencies from Dependabot config to prevent endless loop ([b4e4b77](https://github.com/sealsystems/node-mocha/commit/b4e4b77))
+
+
+
+---
+
 ## 3.0.12 (2019-09-07)
 
 ### Chores
