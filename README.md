@@ -31,7 +31,7 @@ Please note:
 - Our standard assert library `assertthat` is also a dependency of this package. So you do not need to include it in your project's `package.json`.
 
 - In order to install all dependencies directly in the project's `node_modules` folder, you may need to delete `package-lock.json` before adding this package.
- 
+
 - Mocha runs with the following settings:
 
   ```
@@ -66,3 +66,6 @@ npm run test:coverage:check
 npm run test:report
 ```
 
+## Implementation details
+
+**Please note:** This module is part of the build and release infrastructure. In [package.json](package.json), all other related modules are referenced not by version numbers but by the repository name. This prevents a loop when automatically updating dependencies via Dependabot.
