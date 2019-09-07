@@ -1,3 +1,26 @@
+## 3.0.12 (2019-09-07)
+
+### Chores
+
+
+#### bump [@sealsystems](https://github.com/sealsystems)/eslint-config-es ([91bd86a](https://github.com/sealsystems/node-mocha/commit/91bd86a))
+
+Bumps [@sealsystems/eslint-config-es](https://github.com/sealsystems/node-eslint-config-es) from `51ee7be` to `0e2dc01`.
+- [Release notes](https://github.com/sealsystems/node-eslint-config-es/releases)
+- [Commits](https://github.com/sealsystems/node-eslint-config-es/compare/51ee7be98a5ab5cadc1e263093cb898659f4ce49...0e2dc01f020e1d9bff2515e806635b13f4825cb4)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+#### bump [@sealsystems](https://github.com/sealsystems)/semantic-release ([26b995e](https://github.com/sealsystems/node-mocha/commit/26b995e))
+
+Bumps [@sealsystems/semantic-release](https://github.com/sealsystems/node-semantic-release) from `9206ef1` to `51dc5c8`.
+- [Release notes](https://github.com/sealsystems/node-semantic-release/releases)
+- [Commits](https://github.com/sealsystems/node-semantic-release/compare/9206ef10153df791018577e8fd0c05eabda44373...51dc5c819b9747e6aee5c48f180911b812bef71f)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 3.0.11 (2019-09-07)
 
 ### Chores
