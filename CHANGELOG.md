@@ -1,3 +1,14 @@
+## 3.0.15 (2019-09-07)
+
+### Chores
+
+
+#### Update dependencies ([855d668](https://github.com/sealsystems/node-mocha/commit/855d668))
+
+
+
+---
+
 ## 3.0.14 (2019-09-07)
 
 ### Chores
