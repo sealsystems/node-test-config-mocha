@@ -1,3 +1,30 @@
+## 4.0.0 (2019-09-07)
+
+### Features
+
+
+#### bump assertthat from 3.3.0 to 4.0.2 ([0042cb2](https://github.com/sealsystems/node-mocha/commit/0042cb2))
+
+
+
+### BREAKING CHANGES
+
+#### Syntax of `require` changed
+
+Require of `assertthat` must be changed from
+
+```
+const assert = require('assertthat');
+```
+
+to
+
+```
+const assert = require('assertthat').default;
+```
+
+---
+
 ## 3.0.15 (2019-09-07)
 
 ### Chores
