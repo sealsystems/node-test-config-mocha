@@ -1,3 +1,20 @@
+## 3.0.3 (2019-09-07)
+
+### Chores
+
+
+#### bump [@sealsystems](https://github.com/sealsystems)/eslint-config-es from 3.3.6 to 3.3.7 ([4e1b5b6](https://github.com/sealsystems/node-mocha/commit/4e1b5b6))
+
+Bumps [@sealsystems/eslint-config-es](https://github.com/sealsystems/node-eslint-config-es) from 3.3.6 to 3.3.7.
+- [Release notes](https://github.com/sealsystems/node-eslint-config-es/releases)
+- [Changelog](https://github.com/sealsystems/node-eslint-config-es/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/sealsystems/node-eslint-config-es/compare/3.3.6...3.3.7)
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 3.0.2 (2019-09-07)
 
 ### Chores
