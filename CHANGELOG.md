@@ -1,3 +1,14 @@
+## 4.1.1 (2019-09-13)
+
+### Bug Fixes
+
+
+#### downgrade assertthat to 3.x ([4cd4d7c](https://github.com/sealsystems/node-mocha/commit/4cd4d7c))
+
+
+
+---
+
 ## 4.1.0 (2019-09-13)
 
 ### Features
