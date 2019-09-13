@@ -1,3 +1,14 @@
+## 4.1.0 (2019-09-13)
+
+### Features
+
+
+#### evaluate command line parameters ([d05d406](https://github.com/sealsystems/node-mocha/commit/d05d406))
+
+
+
+---
+
 ## 4.0.0 (2019-09-07)
 
 ### Features
