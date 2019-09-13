@@ -66,6 +66,19 @@ npm run test:coverage:check
 npm run test:report
 ```
 
+## Command line parameter
+
+The commands evaluate command line parameters from package.json. All parameters prefixed with `-mocha` are passed to `mocha` without the prefix. All parameters prefixed with `-ny` are passed to `nyc` without the prefix.
+
+Example:
+```json
+"scripts": {
+  "test": "test-run -mocha--max-old-space-size=2500 -nyc--check-coverage"
+}
+```
+
+The above example runs `mocha` with the extra parameter `--max-old-space-size=2500` and `nyc` with the extra parameter `--check-coverage`.
+
 ## Implementation details
 
 **Please note:** This module is part of the build and release infrastructure. In order to prevent endless loops when automatically updating dependencies via Dependabot, devDependencies are not included in the [config file](.dependabot/config.yml).
