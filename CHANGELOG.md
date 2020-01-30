@@ -1,3 +1,17 @@
+## 4.1.3 (2020-01-30)
+
+### Chores
+
+
+#### bump nyc from 14.1.1 to 15.0.0 ([3c2f6ed](https://github.com/sealsystems/node-mocha/commit/3c2f6ed))
+
+Bumps nyc from 14.1.1 to 15.0.0.
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 4.1.2 (2020-01-30)
 
 ### Chores
