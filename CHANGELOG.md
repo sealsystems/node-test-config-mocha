@@ -1,3 +1,17 @@
+## 4.1.2 (2020-01-30)
+
+### Chores
+
+
+#### bump mocha from 6.2.0 to 7.0.1 ([67443cf](https://github.com/sealsystems/node-mocha/commit/67443cf))
+
+Bumps mocha from 6.2.0 to 7.0.1.
+
+Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+
+---
+
 ## 4.1.1 (2019-09-13)
 
 ### Bug Fixes
