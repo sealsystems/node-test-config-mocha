@@ -1,3 +1,14 @@
+## 4.1.4 (2020-03-09)
+
+### Chores
+
+
+#### Switched to github-actions. ([c931686](https://github.com/sealsystems/node-mocha/commit/c931686))
+
+
+
+---
+
 ## 4.1.3 (2020-01-30)
 
 ### Chores
