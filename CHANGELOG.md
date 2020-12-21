@@ -1,3 +1,14 @@
+## 4.1.6 (2020-12-21)
+
+### Chores
+
+
+#### bump nyc from 15.0.1 to 15.1.0 ([4c1e8d7](https://github.com/sealsystems/node-mocha/commit/4c1e8d7))
+
+
+
+---
+
 ## 4.1.5 (2020-12-21)
 
 ### Chores
