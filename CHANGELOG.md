@@ -1,3 +1,14 @@
+## 4.1.7 (2020-12-21)
+
+### Chores
+
+
+#### bump mocha from 7.1.2 to 8.2.1 ([f0f936a](https://github.com/sealsystems/node-mocha/commit/f0f936a))
+
+
+
+---
+
 ## 4.1.6 (2020-12-21)
 
 ### Chores
