@@ -1,3 +1,16 @@
+## 4.1.5 (2020-12-21)
+
+### Chores
+
+
+#### Trigger release ([c74f3bd](https://github.com/sealsystems/node-mocha/commit/c74f3bd))
+
+#### updated package.json ([df6eef4](https://github.com/sealsystems/node-mocha/commit/df6eef4))
+
+
+
+---
+
 ## 4.1.4 (2020-03-09)
 
 ### Chores
