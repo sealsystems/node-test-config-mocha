@@ -1,3 +1,10 @@
+## 4.1.9 (2021-04-27)
+
+### Chores
+
+
+Update dependencies ([b08bb30](https://github.com/sealsystems/node-mocha/commit/b08bb30))
+
 ## 4.1.8 (2021-04-27)
 
 ### Chores
