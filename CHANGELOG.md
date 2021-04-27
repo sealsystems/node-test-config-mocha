@@ -1,3 +1,14 @@
+## 4.1.8 (2021-04-27)
+
+### Chores
+
+
+#### bump mocha from 8.2.1 to 8.3.2 ([#78](https://github.com/sealsystems/node-mocha/issues/78)) ([0b8aa5d](https://github.com/sealsystems/node-mocha/commit/0b8aa5d))
+
+
+
+---
+
 ## 4.1.7 (2020-12-21)
 
 ### Chores
