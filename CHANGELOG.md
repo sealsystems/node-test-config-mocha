@@ -1,3 +1,10 @@
+## 4.1.10 (2021-05-09)
+
+### Chores
+
+
+bump lodash from 4.17.20 to 4.17.21 ([e20faa1](https://github.com/sealsystems/node-mocha/commit/e20faa1))
+
 ## 4.1.9 (2021-04-27)
 
 ### Chores
