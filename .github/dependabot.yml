@@ -1,0 +1,34 @@
+version: 2
+registries:
+  npm-registry-npm-pkg-github-com:
+    type: npm-registry
+    url: https://npm.pkg.github.com
+    token: "${{secrets.NPM_REGISTRY_NPM_PKG_GITHUB_COM_TOKEN}}"
+
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "00:00"
+  open-pull-requests-limit: 99
+  reviewers:
+  - seal-mis
+  versioning-strategy: increase
+  allow:
+  - dependency-type: production
+  ignore:
+  - dependency-name: assertthat
+    versions:
+    - 5.2.6
+    - 5.2.7
+    - 5.2.8
+  - dependency-name: mocha
+    versions:
+    - 8.3.0
+    - 8.3.1
+  commit-message:
+    prefix: chore
+    include: scope
+  registries:
+  - npm-registry-npm-pkg-github-com
